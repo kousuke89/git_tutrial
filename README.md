@@ -1,5 +1,5 @@
 # git_tutrial  
-##sub_title
+## sub_title
 - a
 - b
   - b-a
